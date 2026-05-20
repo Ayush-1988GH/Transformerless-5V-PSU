@@ -15,7 +15,7 @@ The 230V AC mains enters through the input terminal **J1**.
 The capacitor **C0** acts as a capacitive dropper.
 It creates capacitive reactance which limits the amount of AC current flowing into the circuit.
 
-X_C=\frac{1}{2\pi f C}
+X_C = 1/2*pi*f*C
 
 Because the capacitor limits current with very little heat loss, it is more efficient than using a large resistor.
 
