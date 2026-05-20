@@ -22,3 +22,10 @@ This circuit is non-isolated from AC mains.
 Do NOT touch while powered.
 Do NOT connect directly to a computer USB port.
 Only for educational and experimental purposes.
+
+## What I Learned
+- Basics of capacitive dropper supplies
+- AC to DC rectification
+- PCB design considerations for mains voltage
+- Filtering and voltage regulation
+- Safety considerations in non-isolated supplies
